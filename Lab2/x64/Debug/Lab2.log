@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+D:\LNU\4 Семестер\Паралельне програмування\Lab2\Lab2.cpp(27,30): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+D:\LNU\4 Семестер\Паралельне програмування\Lab2\Lab2.cpp(11,25): warning C4101: 'i': unreferenced local variable
+  Lab2.vcxproj -> D:\LNU\4 Семестер\Паралельне програмування\Lab2\x64\Debug\Lab2.exe

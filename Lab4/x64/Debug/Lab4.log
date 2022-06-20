@@ -1,0 +1,17 @@
+﻿  Lab4.cpp
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(29,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(107,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(191,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(25,19): warning C4101: 'k': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(25,16): warning C4101: 'j': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(25,13): warning C4101: 'i': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(23,13): warning C4101: 'x': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(104,19): warning C4101: 'k': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(104,16): warning C4101: 'j': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(104,13): warning C4101: 'i': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(102,13): warning C4101: 'x': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(188,19): warning C4101: 'k': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(188,16): warning C4101: 'j': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(188,13): warning C4101: 'i': unreferenced local variable
+D:\LNU\4 Семестер\Паралельне програмування\Lab4\Lab4.cpp(186,13): warning C4101: 'x': unreferenced local variable
+  Lab4.vcxproj -> D:\LNU\4 Семестер\Паралельне програмування\Lab4\x64\Debug\Lab4.exe
